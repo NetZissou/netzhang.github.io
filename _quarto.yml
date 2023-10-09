@@ -1,15 +1,16 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "netzhang.github.io"
+  title: "Net Zhang"
   navbar:
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/
+        href: https://github.com/NetZissou
       - icon: twitter
-        href: https://twitter.com
+        href: https://twitter.com/NetZissou
 format:
   html:
     theme: cosmo
